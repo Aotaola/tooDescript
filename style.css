@@ -1,7 +1,21 @@
 body {background-color: grey;}
-title {font-family: Arial, Helvetica, sans-serif;
+h1 {font-family: Arial, Helvetica, sans-serif;
     font-weight:400;
-font-size: 16px;
+font-size: 60px;
 line-height: 1.6em;
-color: lightskyblue;}
-
+color: lightskyblue;
+padding-right: 5%;
+padding-left: 5%;}
+h2 {font-family: Arial, Helvetica, sans-serif;
+color: lightblue;
+padding-right: 5%;
+padding-left:5%;}
+p {display: block;
+    block-size: auto;
+font-size:medium;
+padding-left: 5%;
+}
+image {max-width: 100%;
+    height:auto;
+    opacity: .5;}
+    
