@@ -15,7 +15,13 @@ p {display: block;
 font-size:medium;
 padding-left: 5%;
 }
-image {max-width: 100%;
+img 
+{display: block;
+max-width: 100%;
     height:auto;
     opacity: .5;}
-    
+.container {position: relative;}
+.topleft {position: absolute;
+top: 10px;
+left: 20px;
+}
