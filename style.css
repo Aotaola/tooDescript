@@ -3,25 +3,31 @@ h1 {font-family: Arial, Helvetica, sans-serif;
     font-weight:400;
 font-size: 60px;
 line-height: 1.6em;
-color: lightskyblue;
-padding-right: 5%;
-padding-left: 5%;}
+color: blue;
+padding: none}
 h2 {font-family: Arial, Helvetica, sans-serif;
-color: lightblue;
-padding-right: 5%;
-padding-left:5%;}
-p {display: block;
+color: blue; 
+text-decoration: underline;}
+
+h3 {font-family: Arial, Helvetica, sans-serif;
+    color: lightgrey ;
+font-style: italic; 
+font-size: medium;
+font-weight: 100;}
+div {display: block;
     block-size: auto;
-font-size:medium;
-padding-left: 5%;}
-.container {position: relative; text-align: center}
+text-indent: 12px;}
+.container {position: relative; text-align: left}
 .topleft {position: absolute; 
-    bottom: 8px;
+    top: 8px;
     left: 16px;}
 
 img { display: block;
 max-width: 100%;
     height:auto;
     opacity: .5;}
-    
+p { font-family:Arial, Helvetica, sans-serif ; 
+    font-size: 18px;
+    width: 650px; 
+    color: whitesmoke;}
 
